@@ -8,9 +8,11 @@ WeCare comprises features for caterers to manage in-coming orders, track payment
 The platform will present a user-friendly interface that improves convenience and convenience for event organizers and simplifies the catering order process.
 WeCare integrates with payment gateways that will facilitate secure and suitable online payments for catering services such as via Mobile and Bank Card transfer.
 
+
 Landing Page
-<img width="900" alt="landing page 1st" src="https://github.com/user-attachments/assets/c057ee95-e39e-45fb-ab3b-269af3824630">
-<img width="900" alt="landing page 2nd" src="https://github.com/user-attachments/assets/2b2d3f5d-b566-4b17-b1d0-0d8c68287197">
+<img width="960" alt="landing page 1st" src="https://github.com/user-attachments/assets/c057ee95-e39e-45fb-ab3b-269af3824630">
+
+<img width="960" alt="landing page 2nd" src="https://github.com/user-attachments/assets/2b2d3f5d-b566-4b17-b1d0-0d8c68287197">
 
 Add to Cart
 <img width="960" alt="cart 3rd" src="https://github.com/user-attachments/assets/ba937fc9-6ef6-40e7-a060-3591817bc039">
