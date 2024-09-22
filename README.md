@@ -1,4 +1,5 @@
-
+WeCare: Online Catering Reservation System using MERN stack
+ 
 Introduction
 The WeCare: Online Catering Reservation System project using MERN stack presents an advanced web-based platform designed to modernize the industry. WeCare functions as a well-organized and user-centrical solution. It differentiates itself from outmoded methods of managing catering services. This platform links the gap between event organizers and catering service providers.
 
